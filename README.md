@@ -15,5 +15,7 @@ necessary splays after each character read from the text.
 3. Run the program providing the input text file as an argument:
 
 4. View the output, which displays the total cost of construction and search within both trees.
+
+## Here is the Output
    
-![Here is the output](./Screenshot 2023-01-01 at 17.16.24.png)
+![Here is the output](./image)
