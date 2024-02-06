@@ -16,3 +16,4 @@ necessary splays after each character read from the text.
 
 4. View the output, which displays the total cost of construction and search within both trees.
    
+![Here is the output](./Screenshot 2023-01-01 at 17.16.24.png)
